@@ -1,0 +1,12 @@
+{
+  "name": "zoom-point",
+  "version": "0.0.1",
+  "description": "user can point anywhere on the zoom",
+  "dependencies": {
+    "express": "^4.4.5",
+    "ws": "0.4.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
