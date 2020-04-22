@@ -4,7 +4,7 @@
   "description": "user can point anywhere on the zoom",
   "dependencies": {
     "express": "^4.4.5",
-    "ws": "0.4.x"
+    "ws": "7.2.x"
   },
   "scripts": {
     "start": "node server.js"
